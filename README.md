@@ -1,1 +1,1 @@
-# yavuzgamez.github.io
+# Responsive Portfolio Website
